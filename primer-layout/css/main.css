@@ -1,0 +1,29 @@
+/* Inserta tu código aqui */
+
+   h1 {
+
+	     font-size: 12px;
+	     font-family: helvetica;
+	     
+      }
+
+	div {
+     		display: inline-block;
+     		position: relative;
+     		left: 2px;
+     		margin: 2px;
+
+		}
+
+	p {
+            position: absolute;
+            padding-top: 170px;
+            padding-left: 15px;
+            color-font: blue;
+            left: 15%;
+            color: white;
+            font-family: helvetica;
+            font-size: 15px;
+
+		}
+
